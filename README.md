@@ -46,6 +46,7 @@ This project explores how college students manage their monthly budgets by analy
 ---
 
 ## Project Structure
+```
 **Student_Budget_Planner_Project**/
 ├── data/
 │ └── student_budget_data.csv
@@ -68,3 +69,6 @@ This project explores how college students manage their monthly budgets by analy
 ├── README.md
 |
 └── Final_Report.pdf
+```
+## Conclusion
+This project showcases how multiple tools—Excel, SQL, Python, and Tableau—can be integrated to gain deep insights into student budgeting habits. From cleaning raw data to building interactive dashboards, the analysis reveals critical spending patterns and highlights financial challenges faced by students. Such insights can help in developing better financial literacy programs and support systems for college students.
